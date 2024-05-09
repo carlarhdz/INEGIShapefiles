@@ -1,0 +1,17 @@
+# Core libraries for data manipulation
+pandas
+numpy
+
+# Geospatial libraries
+shapely
+fiona
+pyproj
+rtree
+geopandas
+
+# JupyterLab for interactive notebooks
+jupyterlab
+
+# Optional: library for plotting geospatial data
+matplotlib
+
