@@ -27,7 +27,6 @@ docker build -t inegi .
 
 **b) Correr el docker**: Ahora sí podemos correr el Docker con
 ```
-bash
 docker run -p 8888:8888 inegi
 ```
 
